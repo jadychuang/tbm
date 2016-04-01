@@ -1,0 +1,308 @@
+/*HOME PAGE*/
+body {
+	font-size: 100px;
+	background: #f9f9f9;
+	margin-top: 130px;
+}
+.container {
+	width:1350px;
+	margin: 0 auto;
+}
+.circle {
+  background: white;
+  text-decoration: none;
+  border:none;
+  width: 200px;
+  height: 200px;
+  -webkit-border-radius: 200px;
+  -moz-border-radius: 200px;
+  border-radius: 200px;
+  margin: 0 auto;
+  margin-bottom: 100px;
+}
+.circle:hover {
+  	background: black;
+ 	text-decoration: none;
+  	cursor: pointer;
+  	width: 200px;
+	height: 200px;
+}
+
+.triangle {
+	width: 0; 
+	height: 0; 
+	text-decoration: none;
+ 	border:none;
+	border-left: 125px solid transparent;
+	border-right: 125px solid transparent;
+	border-bottom: 180px solid white;
+	margin: 0 auto;
+
+}
+.triangle:hover {
+  border-left: 125px solid transparent;
+  border-right: 125px solid transparent;
+  border-bottom: 180px solid black;  
+  cursor: pointer;
+  width: 0px;
+  height: 0px;
+}
+/*HOME PAGE ENDS*/
+
+/*JADY'S LETTERS*/
+.jady {
+	float:left;
+	display: inline-block;
+}
+
+.B {
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	background-image: url(jady/jd-b.gif);
+	background-size:contain;
+	background-repeat: no-repeat;
+	-o-transition: .2s ease-out, background .5s ease-in;
+	-ms-transition: .2s ease-out, background .5s ease-in;
+	-moz-transition: .2s ease-out, background .5s ease-in;
+	-webkit-transition: .2s ease-out, background .5s ease-in;
+	transition: .2s ease-out, background .5s ease-in;
+
+}
+.B:hover {
+	background-image: url(janice/B.gif);
+	background-repeat: no-repeat;
+	width: 180px;
+	height: 260px;
+}
+.A {
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	background-image: url(jady/jd-a.gif);
+	background-size: contain;
+	background-repeat: no-repeat;
+	-o-transition: .2s ease-out, background .5s ease-in;
+	-ms-transition: .2s ease-out, background .5s ease-in;
+	-moz-transition: .2s ease-out, background .5s ease-in;
+	-webkit-transition: .2s ease-out, background .5s ease-in;
+	transition: .2s ease-out, background .5s ease-in;
+
+}
+.A:hover {
+	background-image: url(janice/A.gif);
+	background-repeat: no-repeat;
+	width: 180px;
+	height: 260px;
+}
+
+.N {
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	background-image: url(jady/jd-n.gif);
+	background-repeat: no-repeat;
+	background-size: contain;
+	-o-transition: .2s ease-out, background .5s ease-in;
+	-ms-transition: .2s ease-out, background .5s ease-in;
+	-moz-transition: .2s ease-out, background .5s ease-in;
+	-webkit-transition: .2s ease-out, background .5s ease-in;
+	transition: .2s ease-out, background .5s ease-in;
+
+}
+.N:hover {
+	background-image: url(janice/N.gif);
+	background-repeat: no-repeat;
+	width: 180px;
+	height: 260px;
+}
+.F {
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	background-image: url(jady/jd-f.gif);
+	background-repeat: no-repeat;
+	background-size: contain;
+	-o-transition: .2s ease-out, background .5s ease-in;
+	-ms-transition: .2s ease-out, background .5s ease-in;
+	-moz-transition: .2s ease-out, background .5s ease-in;
+	-webkit-transition: .2s ease-out, background .5s ease-in;
+	transition: .2s ease-out, background .5s ease-in;
+
+}
+.F:hover {
+	background-image: url(janice/F.gif);
+	background-repeat: no-repeat;
+	width: 180px;
+	height: 260px;
+}
+.I {
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	background-image: url(jady/jd-i.gif);
+	background-repeat: no-repeat;
+	background-size: contain;
+	-o-transition: .2s ease-out, background .5s ease-in;
+	-ms-transition: .2s ease-out, background .5s ease-in;
+	-moz-transition: .2s ease-out, background .5s ease-in;
+	-webkit-transition: .2s ease-out, background .5s ease-in;
+	transition: .2s ease-out, background .5s ease-in;
+
+}
+.I:hover {
+	background-image: url(janice/I.gif);
+	background-repeat: no-repeat;
+	width: 180px;
+	height: 260px;
+}
+.R {
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	background-image: url(jady/jd-r.gif);
+	background-repeat: no-repeat;
+	background-size: contain;
+	-o-transition: .2s ease-out, background .5s ease-in;
+	-ms-transition: .2s ease-out, background .5s ease-in;
+	-moz-transition: .2s ease-out, background .5s ease-in;
+	-webkit-transition: .2s ease-out, background .5s ease-in;
+	transition: .2s ease-out, background .5s ease-in;
+
+}
+.R:hover {
+	background-image: url(janice/R.gif);
+	background-repeat: no-repeat;
+	width: 180px;
+	height: 260px;
+}
+/*JADY'S LETTERS END*/
+
+/*JANICE'S LETTERS*/
+.janice{
+	float:left;
+	display: inline-block;
+}
+
+.B-janice {
+	width: 180px;
+	height: 260px;
+	display: inline-block;
+	background-image: url(janice/jn-b.gif);
+	background-repeat: no-repeat;
+	background-size:contain;
+	-o-transition: .2s ease-out, background .5s ease-in;
+	-ms-transition: .2s ease-out, background .5s ease-in;
+	-moz-transition: .2s ease-out, background .5s ease-in;
+	-webkit-transition: .2s ease-out, background .5s ease-in;
+	transition: .2s ease-out, background .5s ease-in;
+
+}
+.B-janice:hover {
+	background-image: url(jady/B.gif);
+	background-repeat: no-repeat;
+	width: 240px;
+	height: 240px;
+}
+.A-janice {
+	width: 180px;
+	height: 260px;
+	display: inline-block;
+	background-image: url(janice/jn-a.gif);
+	background-repeat: no-repeat;
+	background-size: contain;
+	-o-transition: .2s ease-out, background .5s ease-in;
+	-ms-transition: .2s ease-out, background .5s ease-in;
+	-moz-transition: .2s ease-out, background .5s ease-in;
+	-webkit-transition: .2s ease-out, background .5s ease-in;
+	transition: .2s ease-out, background .5s ease-in;
+
+}
+.A-janice:hover {
+	background-image: url(jady/A.gif);
+	background-repeat: no-repeat;
+	width: 240px;
+	height: 240px;
+}
+
+.N-janice {
+	width: 180px;
+	height: 260px;
+	display: inline-block;
+	background-image: url(janice/jn-n.gif);
+	background-repeat: no-repeat;
+	background-size: contain;
+	-o-transition: .2s ease-out, background .5s ease-in;
+	-ms-transition: .2s ease-out, background .5s ease-in;
+	-moz-transition: .2s ease-out, background .5s ease-in;
+	-webkit-transition: .2s ease-out, background .5s ease-in;
+	transition: .2s ease-out, background .5s ease-in;
+
+}
+.N-janice:hover {
+	background-image: url(jady/N.gif);
+	background-repeat: no-repeat;
+	width: 240px;
+	height: 240px;
+}
+.F-janice {
+	width: 180px;
+	height: 260px;
+	display: inline-block;
+	background-image: url(janice/jn-f.gif);
+	background-repeat: no-repeat;
+	background-size: contain;
+	-o-transition: .2s ease-out, background .5s ease-in;
+	-ms-transition: .2s ease-out, background .5s ease-in;
+	-moz-transition: .2s ease-out, background .5s ease-in;
+	-webkit-transition: .2s ease-out, background .5s ease-in;
+	transition: .2s ease-out, background .5s ease-in;
+
+}
+.F-janice:hover {
+	background-image: url(jady/F.gif);
+	background-repeat: no-repeat;
+	width: 240px;
+	height: 240px;
+}
+.I-janice {
+	width: 180px;
+	height: 260px;
+	display: inline-block;
+	background-image: url(janice/jn-i.gif);
+	background-repeat: no-repeat;
+	background-size: contain;
+	-o-transition: .2s ease-out, background .5s ease-in;
+	-ms-transition: .2s ease-out, background .5s ease-in;
+	-moz-transition: .2s ease-out, background .5s ease-in;
+	-webkit-transition: .2s ease-out, background .5s ease-in;
+	transition: .2s ease-out, background .5s ease-in;
+
+}
+.I-janice:hover {
+	background-image: url(jady/I.gif);
+	background-repeat: no-repeat;
+	width: 240px;
+	height: 240px;
+}
+.R-janice {
+	width: 180px;
+	height: 260px;
+	display: inline-block;
+	background-image: url(janice/jn-r.gif);
+	background-repeat: no-repeat;
+	background-size: contain;
+	-o-transition: .2s ease-out, background .5s ease-in;
+	-ms-transition: .2s ease-out, background .5s ease-in;
+	-moz-transition: .2s ease-out, background .5s ease-in;
+	-webkit-transition: .2s ease-out, background .5s ease-in;
+	transition: .2s ease-out, background .5s ease-in;
+
+}
+.R-janice:hover {
+	background-image: url(jady/R.gif);
+	background-repeat: no-repeat;
+	width: 240px;
+	height: 240px;
+}
+/*JANICE'S LETTERS END*/
