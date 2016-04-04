@@ -184,11 +184,11 @@ body {
 	display: inline-block;
 }
 
-.B-janice {
+.B-01-janice {
 	width: 180px;
 	height: 260px;
 	display: inline-block;
-	background-image: url(janice/jn-b.gif);
+	background-image: url(janice/jn_01_B.gif);
 	background-repeat: no-repeat;
 	background-size:contain;
 	-o-transition: .2s ease-out, background .5s ease-in;
@@ -198,17 +198,17 @@ body {
 	transition: .2s ease-out, background .5s ease-in;
 
 }
-.B-janice:hover {
+.B-01-janice:hover {
 	background-image: url(jady/B.gif);
 	background-repeat: no-repeat;
 	width: 240px;
 	height: 240px;
 }
-.A-janice {
+.A-02-janice {
 	width: 180px;
 	height: 260px;
 	display: inline-block;
-	background-image: url(janice/jn-a.gif);
+	background-image: url(janice/jn_02_A.gif);
 	background-repeat: no-repeat;
 	background-size: contain;
 	-o-transition: .2s ease-out, background .5s ease-in;
@@ -218,18 +218,17 @@ body {
 	transition: .2s ease-out, background .5s ease-in;
 
 }
-.A-janice:hover {
+.A-02-janice:hover {
 	background-image: url(jady/A.gif);
 	background-repeat: no-repeat;
 	width: 240px;
 	height: 240px;
 }
-
-.N-janice {
+.N-03-janice {
 	width: 180px;
 	height: 260px;
 	display: inline-block;
-	background-image: url(janice/jn-n.gif);
+	background-image: url(janice/jn_03_N.gif);
 	background-repeat: no-repeat;
 	background-size: contain;
 	-o-transition: .2s ease-out, background .5s ease-in;
@@ -239,17 +238,17 @@ body {
 	transition: .2s ease-out, background .5s ease-in;
 
 }
-.N-janice:hover {
+.N-03-janice:hover {
 	background-image: url(jady/N.gif);
 	background-repeat: no-repeat;
 	width: 240px;
 	height: 240px;
 }
-.F-janice {
+.A-04-janice {
 	width: 180px;
 	height: 260px;
 	display: inline-block;
-	background-image: url(janice/jn-f.gif);
+	background-image: url(janice/jn_04_A.gif);
 	background-repeat: no-repeat;
 	background-size: contain;
 	-o-transition: .2s ease-out, background .5s ease-in;
@@ -259,17 +258,77 @@ body {
 	transition: .2s ease-out, background .5s ease-in;
 
 }
-.F-janice:hover {
+.A-04-janice:hover {
+	background-image: url(jady/A.gif);
+	background-repeat: no-repeat;
+	width: 240px;
+	height: 240px;
+}
+.N-05-janice {
+	width: 180px;
+	height: 260px;
+	display: inline-block;
+	background-image: url(janice/jn_05_N.gif);
+	background-repeat: no-repeat;
+	background-size: contain;
+	-o-transition: .2s ease-out, background .5s ease-in;
+	-ms-transition: .2s ease-out, background .5s ease-in;
+	-moz-transition: .2s ease-out, background .5s ease-in;
+	-webkit-transition: .2s ease-out, background .5s ease-in;
+	transition: .2s ease-out, background .5s ease-in;
+
+}
+.N-05-janice:hover {
+	background-image: url(jady/N.gif);
+	background-repeat: no-repeat;
+	width: 240px;
+	height: 240px;
+}
+.A-06-janice {
+	width: 180px;
+	height: 260px;
+	display: inline-block;
+	background-image: url(janice/jn_06_A.gif);
+	background-repeat: no-repeat;
+	background-size: contain;
+	-o-transition: .2s ease-out, background .5s ease-in;
+	-ms-transition: .2s ease-out, background .5s ease-in;
+	-moz-transition: .2s ease-out, background .5s ease-in;
+	-webkit-transition: .2s ease-out, background .5s ease-in;
+	transition: .2s ease-out, background .5s ease-in;
+
+}
+.A-06-janice:hover {
+	background-image: url(jady/A.gif);
+	background-repeat: no-repeat;
+	width: 240px;
+	height: 240px;
+}
+.F-07-janice {
+	width: 180px;
+	height: 260px;
+	display: inline-block;
+	background-image: url(janice/jn_07_F.gif);
+	background-repeat: no-repeat;
+	background-size: contain;
+	-o-transition: .2s ease-out, background .5s ease-in;
+	-ms-transition: .2s ease-out, background .5s ease-in;
+	-moz-transition: .2s ease-out, background .5s ease-in;
+	-webkit-transition: .2s ease-out, background .5s ease-in;
+	transition: .2s ease-out, background .5s ease-in;
+
+}
+.F-07-janice:hover {
 	background-image: url(jady/F.gif);
 	background-repeat: no-repeat;
 	width: 240px;
 	height: 240px;
 }
-.I-janice {
+.A-08-janice {
 	width: 180px;
 	height: 260px;
 	display: inline-block;
-	background-image: url(janice/jn-i.gif);
+	background-image: url(janice/jn_08_A.gif);
 	background-repeat: no-repeat;
 	background-size: contain;
 	-o-transition: .2s ease-out, background .5s ease-in;
@@ -279,17 +338,37 @@ body {
 	transition: .2s ease-out, background .5s ease-in;
 
 }
-.I-janice:hover {
+.A-08-janice:hover {
+	background-image: url(jady/A.gif);
+	background-repeat: no-repeat;
+	width: 240px;
+	height: 240px;
+}
+.I-09-janice {
+	width: 180px;
+	height: 260px;
+	display: inline-block;
+	background-image: url(janice/jn_09_I.gif);
+	background-repeat: no-repeat;
+	background-size: contain;
+	-o-transition: .2s ease-out, background .5s ease-in;
+	-ms-transition: .2s ease-out, background .5s ease-in;
+	-moz-transition: .2s ease-out, background .5s ease-in;
+	-webkit-transition: .2s ease-out, background .5s ease-in;
+	transition: .2s ease-out, background .5s ease-in;
+
+}
+.I-09-janice:hover {
 	background-image: url(jady/I.gif);
 	background-repeat: no-repeat;
 	width: 240px;
 	height: 240px;
 }
-.R-janice {
+.R-10-janice {
 	width: 180px;
 	height: 260px;
 	display: inline-block;
-	background-image: url(janice/jn-r.gif);
+	background-image: url(janice/jn_10_R.gif);
 	background-repeat: no-repeat;
 	background-size: contain;
 	-o-transition: .2s ease-out, background .5s ease-in;
@@ -299,7 +378,7 @@ body {
 	transition: .2s ease-out, background .5s ease-in;
 
 }
-.R-janice:hover {
+.R-10-janice:hover {
 	background-image: url(jady/R.gif);
 	background-repeat: no-repeat;
 	width: 240px;
