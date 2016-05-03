@@ -1,0 +1,48 @@
+body {
+	background-color: white;
+}
+.container {
+	width: 1400px;
+	height:100%;
+	margin: 0 auto;
+}
+.header {
+	width: 1400px;
+	font-family: 'Lobster', cursive;
+	margin-top:20px;
+	text-align: center;
+}
+p1 {
+	font-size: 40px;
+}
+p2 {
+	font-size: 20px;
+}
+.left {
+	width: 560px;
+	height:560px;
+	margin:40px;
+	margin-left: 100px;
+	display: inline-block;
+	background-image: url(left.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	float:left;
+}
+.right {
+	width: 560px;
+	height:560px;
+	margin:40px;
+	margin-right: 100px;
+	display: inline-block;
+	background-image: url(right.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	float:right;
+}
+.container-bottom {
+	width: 1400px;
+	font-family: 'Lobster', cursive;
+	margin-top:20px;
+	text-align: center;
+}
