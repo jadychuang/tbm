@@ -1,5 +1,5 @@
 body {
-	background-color: white;
+	background-color: #fff100;
 }
 .container {
 	width: 1400px;
@@ -8,23 +8,25 @@ body {
 }
 .header {
 	width: 1400px;
-	font-family: 'Lobster', cursive;
 	margin-top:20px;
 	text-align: center;
+	font-family: 'Oleo Script', cursive;
 }
 p1 {
-	font-size: 40px;
+	font-size: 45px;
 }
 p2 {
-	font-size: 20px;
+	font-size: 25px;
+
 }
 .left {
 	width: 560px;
 	height:560px;
 	margin:40px;
 	margin-left: 100px;
+	margin-top:100px;
 	display: inline-block;
-	background-image: url(left.png);
+	background-image: url(left.gif);
 	background-size: contain;
 	background-repeat: no-repeat;
 	float:left;
@@ -34,15 +36,10 @@ p2 {
 	height:560px;
 	margin:40px;
 	margin-right: 100px;
+	margin-top:100px;
 	display: inline-block;
-	background-image: url(right.png);
+	background-image: url(right.gif);
 	background-size: contain;
 	background-repeat: no-repeat;
 	float:right;
-}
-.container-bottom {
-	width: 1400px;
-	font-family: 'Lobster', cursive;
-	margin-top:20px;
-	text-align: center;
 }
